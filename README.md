@@ -17,6 +17,10 @@
 <img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
+
+
+
+
 #### Databases:
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
