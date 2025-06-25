@@ -5,13 +5,15 @@
 
 <p align="center">Sou apaixonado por Python e pelo universo das animações gráficas.<br><br> Gosto de usar a programação para criar experiências visuais que sejam interativas e dinâmicas, unindo lógica, criatividade e tecnologia.<br> Estou sempre em busca de novos desafios e aprendizados no desenvolvimento visual com Python.</p>&nbsp;
 
+<img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 ## My Skills
 
 #### Main Stack:
 
 
-<img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
