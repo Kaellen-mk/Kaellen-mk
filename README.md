@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
+<p align="center">Sou apaixonado por Python e pelo universo das animações gráficas.<br><br> Gosto de usar a programação para criar experiências visuais que sejam interativas e dinâmicas, unindo lógica, criatividade e tecnologia.<br> Estou sempre em busca de novos desafios e aprendizados no desenvolvimento visual com Python.</p>&nbsp;
 
 
 ## My Skills
