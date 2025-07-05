@@ -8,7 +8,7 @@
 <img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-#### Linguagens:
+#### Language:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
