@@ -8,9 +8,7 @@
 <img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-## My Skills
-
-#### Main Stack:
+#### Linguagens:
 
 
 
