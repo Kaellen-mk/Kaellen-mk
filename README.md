@@ -1,7 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/Banner.jpg" />
-&nbsp;&nbsp;&nbsp;
-
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Mika. I code for fun!" src="./assets/gh-readme-header.png" /></a></p>
 
 <p align="center">Sou apaixonado por Python e pelo universo das animações gráficas.<br><br> Gosto de usar a programação para criar experiências visuais que sejam interativas e dinâmicas,<br> unindo lógica, criatividade e tecnologia.<br> Estou sempre em busca de novos desafios e aprendizados no desenvolvimento visual com Python.</p>&nbsp;
 
