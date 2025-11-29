@@ -3,7 +3,7 @@
 
 <p align="center">
   💻 Estudante de Programação | 🌍 Apaixonada por Tecnologia
-</p><br><br>
+</p>
 
 <div style="position: relative; z-index: 10;">
   <img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" 
