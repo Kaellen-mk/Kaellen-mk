@@ -1,12 +1,16 @@
+<p align="center">
+  <img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" width="380px" alt="Computador iuriCode">
+</p>
+
 <h1 align="center">👋 Olá, eu sou Mikaellen Silva</h1>
 
 <p align="center">
   💻 Estudante de Programação | 🌍 Apaixonada por Tecnologia
 </p><br><br>
 
-<img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" width="600px" align="right" alt="Computador iuriCode">
+---
 
-## 🚀 Linguagens de Programação 
+## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=python,cs)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
@@ -18,6 +22,9 @@
 <a href="https://www.instagram.com/mk.kaellen" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/Mikaellen-Silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>
 
+<br>
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansiosa para ouvir de você! 😊
+
