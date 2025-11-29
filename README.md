@@ -13,7 +13,7 @@
 
 ## 📫 Contato
 
-[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikaellensilva/)](https://www.linkedin.com/in/mikaellensilva/)
+[![Linkedin: Ellen](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikaellensilva/)](https://www.linkedin.com/in/mikaellensilva/)
 [![Instagram Follow](https://img.shields.io/instagram/follow/mk.kellen?style=social)]({https://www.instagram.com/mk.kellen/}) <br><br>
 
 
