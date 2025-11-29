@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" width="100px" alt="Computador iuriCode">
+  <img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" width="300px" alt="Computador iuriCode">
 </p>
 
 <h1 align="center">👋 Olá, eu sou Mikaellen Silva</h1>
