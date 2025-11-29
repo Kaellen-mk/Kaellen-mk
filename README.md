@@ -3,7 +3,7 @@
 
 <p align="center">
   💻 Estudante de Programação | 🌍 Apaixonada por Tecnologia
-</p>
+</p><br><br>
 
 <div style="position: relative; z-index: 10;">
   <img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" 
@@ -11,6 +11,7 @@
        align="right">
 </div>
 
+<br><br><br><br>
 
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=python,cs)](https://skillicons.dev)<br><br>
