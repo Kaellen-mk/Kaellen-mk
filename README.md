@@ -14,7 +14,7 @@
 ## 📫 Contato
 
 [![Linkedin: Ellen](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikaellensilva/)](https://www.linkedin.com/in/mikaellensilva/)
-[![Instagram Follow](https://img.shields.io/instagram/follow/mk.kellen?style=social)]({https://www.instagram.com/mk.kellen/}) <br><br>
+[![Instagram Follow](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)({https://www.instagram.com/mk.kellen}) <br><br>
 
 
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaellen_mk26&show_icons=true&theme=radical)
