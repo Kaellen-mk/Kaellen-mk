@@ -1,34 +1,22 @@
-<img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/Banner.jpg" alt="Mokkapps GitHub README header image">
+<h1 align="center">👋 Olá, eu sou Mikaellen Silva</h1>
 
-<p align="center">Sou apaixonado por Python e pelo universo das animações gráficas.<br><br> Gosto de usar a programação para criar experiências visuais que sejam interativas e dinâmicas,<br> unindo lógica, criatividade e tecnologia.<br> Estou sempre em busca de novos desafios e aprendizados no desenvolvimento visual com Python.</p>&nbsp;
+<p align="center">
+  💻 Estudante de Programação | 🌍 Apaixonada por Tecnologia
+</p><br><br>
 
-<img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=python,c#)](https://skillicons.dev)<br><br>
+
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikaellensilva/)](https://www.linkedin.com/in/mikaellensilva/)
+[![Instagram Follow](https://img.shields.io/instagram/follow/mk.kellen?style=social)]({https://www.instagram.com/mk.kellen/}) <br><br>
 
 
-#### Language:
+![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaellen_mk26&show_icons=true&theme=radical)
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-
-#### Databases:
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-<div> 
-<a href="https://www.instagram.com/mk.kaellen" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/Mikaellen-Silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
- 
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=fc9c26&section=footer"/>
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
