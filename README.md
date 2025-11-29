@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" width="300px" alt="Computador iuriCode">
-</p>
 
 <h1 align="center">👋 Olá, eu sou Mikaellen Silva</h1>
 
@@ -8,7 +5,12 @@
   💻 Estudante de Programação | 🌍 Apaixonada por Tecnologia
 </p><br><br>
 
----
+<div style="position: relative; z-index: 10;">
+  <img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" 
+       width="400px" 
+       align="right">
+</div>
+
 
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=python,cs)](https://skillicons.dev)<br><br>
