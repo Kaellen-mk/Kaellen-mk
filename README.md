@@ -4,13 +4,10 @@
   💻 Estudante de Programação | 🌍 Apaixonada por Tecnologia
 </p><br><br>
 
-<img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" width="400px" align="right" alt="Computador iuriCode">
 
 ## 🚀 Linguagens de Programação 
 [![My Skills](https://skillicons.dev/icons?i=python,cs)](https://skillicons.dev)<br><br>
-
-
-
 
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
