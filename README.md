@@ -4,6 +4,7 @@
   💻 Estudante de Programação | 🌍 Apaixonada por Tecnologia
 </p><br><br>
 
+<img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=python,cs)](https://skillicons.dev)<br><br>
@@ -13,10 +14,10 @@
 
 ## 📫 Contato
 
-[![Linkedin:](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikaellensilva/)](https://www.linkedin.com/in/mikaellensilva/)
-[![Instagram Follow](https://img.shields.io/Instageam/follow/mk.kellen?style=social)]({Link}) <br><br>
+<div> 
+<a href="https://www.instagram.com/mk.kaellen" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/Mikaellen-Silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
-
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaellen_mk26&show_icons=true&theme=radical)
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
