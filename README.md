@@ -6,19 +6,16 @@
 </p><br><br>
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=python,cs)](https://skillicons.dev)<br><br><br><br>
+[![My Skills](https://skillicons.dev/icons?i=python,cs)](https://skillicons.dev)<br><br>
 
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
 
 <div style="position: relative; z-index: 10;">
   <img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" 
        width="550px" 
        align="right">
 </div>
-
-
-## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
-
 ## 📫 Contato
 
 <div> 
