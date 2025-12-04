@@ -13,7 +13,7 @@
 
 <div style="position: relative; z-index: 10;">
   <img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" 
-       width="550px" 
+       width="300px" 
        align="right">
 </div>
 ## 📫 Contato
