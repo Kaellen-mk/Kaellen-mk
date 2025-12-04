@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,cs)](https://skillicons.dev)<br><br>
 
 
-<div style="position: relative; z-index: 10;">
+<div style="position: relative; z-index: 12;">
   <img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" 
        width="550px" 
        align="right">
