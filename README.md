@@ -76,7 +76,7 @@
 
 <br>
 
-<img src="SEU-LINK-OU-IMAGEM-AQUI" width="260px">
+<img src="Scat.jpg" width="260px">
 
 <br><br>
 
