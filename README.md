@@ -1,30 +1,85 @@
+<h1 align="center">🌸✨ Mikaellen Silva ✨🌸</h1>
 
-<h1 align="center">👋 Olá, eu sou Mikaellen Silva</h1>
+<div align="center">
 
-<p align="center">
-  💻 Estudante de Programação | 🌍 Apaixonada por Tecnologia
-</p><br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=23&duration=3000&pause=1000&color=FF8FC7&center=true&vCenter=true&width=600&lines=💻+Front-end+em+formação;🎀+UI+Designer+lover;🐈+Cat+lover;✨+Criando+interfaces+modernas" />
 
-## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=python,cs)](https://skillicons.dev)<br><br>
-
-## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
-
-<div style="position: relative; z-index: 10;">
-  <img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/image-removebg-preview.png" 
-       width="300px" 
-       align="right">
 </div>
+
+---
+
+## 💖 Sobre Mim
+
+🌷 Apaixonada por tecnologia, design e interfaces modernas. <br>
+💻 Estudando Front-end e criando projetos criativos e responsivos. <br>
+🐈 Café, música e gatos fazem parte do meu setup.
+
+---
+
+## 💻 Linguagens
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🛠️ Ferramentas
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🌸 Atualmente Aprendendo
+
+<div align="center">
+
+⚡ React <br>
+🎀 TypeScript <br>
+💖 UI/UX Design <br>
+🌷 Responsividade <br>
+✨ Interfaces modernas
+
+</div>
+
+---
+
 ## 📫 Contato
 
-<div> 
-<a href="https://www.instagram.com/mk.kaellen" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<div align="center">
+
+<a href="https://www.instagram.com/mk.kaellen" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-ff8fc7?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/Mikaellen-Silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+
+<a href="https://www.linkedin.com/in/Mikaellen-Silva/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-c084fc?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/Kaellen-mk" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </div>
+
+---
+
+<div align="center">
+
+### 💖 obrigada por visitar meu perfil 💖
 
 <br>
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansiosa para ouvir de você! 😊
+<img src="SEU-LINK-OU-IMAGEM-AQUI" width="260px">
 
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff8fc7&height=120&section=footer"/>
+
+</div>
