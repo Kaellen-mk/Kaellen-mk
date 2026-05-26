@@ -73,13 +73,9 @@
 <div align="center">
 
 ### 💖 obrigada por visitar meu perfil 💖
-
-<br>
-
-<img src="Scat.jpg" width="260px">
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff8fc7&height=120&section=footer"/>
-
+<img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/cat.jpg" width="260px">
 </div>
+
+
+
+
