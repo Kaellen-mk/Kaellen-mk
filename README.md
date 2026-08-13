@@ -1,81 +1,102 @@
-<h1 align="center">🌸✨ Mikaellen Silva ✨🌸</h1>
+<h1 align="center">Mikaellen Silva</h1>
 
-<div align="center">
+<p align="center">
+  <strong>Desenvolvedora Front-end • UI Designer</strong>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=23&duration=3000&pause=1000&color=FF8FC7&center=true&vCenter=true&width=600&lines=💻+Desenvoldedora+Front-end;🎀+UI+Designer;🐈+Cat+lover;✨+Criando+interfaces+modernas" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&duration=3000&pause=1000&color=FF8FC7&center=true&vCenter=true&width=600&lines=Construindo+interfaces+modernas;Transformando+ideias+em+experiências;Desenvolvimento+Front-end;UI+%26+Design" />
+</p>
 
-</div>
-
----
-
-## 💖 Sobre Mim
-
-🌷 Apaixonada por tecnologia, design e interfaces modernas. <br>
-💻 Estudando Front-end e criando projetos criativos e responsivos. <br>
-🐈 Café, música e gatos fazem parte do meu setup.
-
----
-
-## 💻 Linguagens
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python)](https://skillicons.dev)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Kaellen-mk">
+    <img src="https://komarev.com/ghpvc/?username=Kaellen-mk&color=ff8fc7&style=flat-square&label=Profile+Views" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Ferramentas
+## 👩🏻‍💻 Sobre mim
 
-<div align="center">
+Sou estudante e desenvolvedora **Front-end**, apaixonada por tecnologia, design e criação de interfaces.
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github)](https://skillicons.dev)
+Gosto de transformar ideias em experiências digitais **bonitas, funcionais e responsivas**, unindo desenvolvimento e UI Design para criar soluções que sejam agradáveis tanto visualmente quanto na experiência de uso.
 
-</div>
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web e construindo projetos para evoluir minhas habilidades na prática.
 
----
-
-## 🌸 Atualmente Aprendendo
-
-<div align="center">
-
-⚡ React <br>
-🎀 TypeScript <br>
-💖 UI/UX Design <br>
-🌷 Responsividade <br>
-✨ Interfaces modernas
-
-</div>
+* 💻 Desenvolvimento Front-end
+* 🎨 UI Design e interfaces digitais
+* 📱 Desenvolvimento de interfaces responsivas
+* 🚀 Aprendizado contínuo através de projetos
+* 🌸 Tecnologia + criatividade
 
 ---
 
-## 📫 Contato
+## 🧠 Tecnologias
 
-<div align="center">
+### Desenvolvimento
 
-<a href="https://www.instagram.com/mk.kaellen" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-ff8fc7?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
+</p>
 
-<a href="https://www.linkedin.com/in/Mikaellen-Silva/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-c084fc?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+### Ferramentas & Design
 
-<a href="https://github.com/Kaellen-mk" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vscode,figma,git,github" />
+</p>
 
 ---
 
-<div align="center">
+## 🌱 Atualmente estudando
 
-### 💖 obrigada por visitar meu perfil 💖
-<img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/cat.jpg" width="260px">
-</div>
+* React
+* TypeScript
+* UI/UX Design
+* Responsividade
+* Componentização
+* Boas práticas de desenvolvimento Front-end
+* Estruturação e organização de projetos
 
+---
 
+## 🚀 Projetos
 
+Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado, explorando **desenvolvimento Front-end, interfaces responsivas e UI Design**.
 
+> Em constante evolução — novos projetos e experimentos serão adicionados por aqui. ✨
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaellen-mk&show_icons=true&theme=transparent&title_color=ff8fc7&icon_color=ff8fc7&text_color=8a8a8a&border_color=ff8fc7&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaellen-mk&layout=compact&theme=transparent&title_color=ff8fc7&text_color=8a8a8a&border_color=ff8fc7" />
+</p>
+
+---
+
+## 📫 Vamos conversar?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/Mikaellen-Silva/">
+    <img src="https://img.shields.io/badge/LinkedIn-ff8fc7?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mk.kaellen">
+    <img src="https://img.shields.io/badge/Instagram-c084fc?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/Kaellen-mk">
+    <img src="https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Criando interfaces, aprendendo todos os dias e transformando ideias em código."</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/cat.jpg" width="220px" />
+</p>
