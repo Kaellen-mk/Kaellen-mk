@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&duration=3000&pause=1000&color=FF8FC7&center=true&vCenter=true&width=600&lines=Desenvolvedora+Front-end;UI+Designer;Criando+interfaces+modernas;Transformando+ideias+em+código" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Kaellen-mk">
-    <img src="https://komarev.com/ghpvc/?username=Kaellen-mk&color=ff8fc7&style=flat-square&label=Profile+Views" />
-  </a>
-</p>
-
 ---
 
 ## 👤 Sobre Mim
