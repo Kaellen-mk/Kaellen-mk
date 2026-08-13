@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=23&duration=3000&pause=1000&color=FF8FC7&center=true&vCenter=true&width=600&lines=💻+Front-end+em+formação;🎀+UI+Designer+lover;🐈+Cat+lover;✨+Criando+interfaces+modernas" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=23&duration=3000&pause=1000&color=FF8FC7&center=true&vCenter=true&width=600&lines=💻+Desenvoldedora+Front-end;🎀+UI+Designer;🐈+Cat+lover;✨+Criando+interfaces+modernas" />
 
 </div>
 
