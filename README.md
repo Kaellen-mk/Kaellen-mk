@@ -1,3 +1,5 @@
+# 🌸 Mikaellen Silva
+
 <h1 align="center">🌸 Mikaellen Silva</h1>
 
 <p align="center">
@@ -5,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&duration=3000&pause=1000&color=FF8FC7&center=true&vCenter=true&width=600&lines=Desenvolvedora+Front-end;UI+Designer;Criando+interfaces+modernas;Transformando+ideias+em+código" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&duration=3000&pause=1000&color=FF8FC7&center=true&vCenter=true&width=600&lines=Desenvolvedora+Front-end;UI+Designer;Criando+interfaces+modernas;Transformando+ideias+em+código" alt="Animação de apresentação" />
 </p>
 
 ---
@@ -36,10 +38,10 @@ O projeto foi pensado para transmitir **confiança, bem-estar e profissionalismo
 
 <p>
   <a href="https://github.com/Kaellen-mk/Landing-page---Fisio">
-    <img src="https://img.shields.io/badge/Ver%20código-ff8fc7?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ver%20código-ff8fc7?style=for-the-badge&logo=github&logoColor=white" alt="Ver código da Landing Page Fisioterapia" />
   </a>
   <a href="https://landing-page-fisio-zeta.vercel.app">
-    <img src="https://img.shields.io/badge/Ver%20projeto-c084fc?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ver%20projeto-c084fc?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar Landing Page Fisioterapia" />
   </a>
 </p>
 
@@ -57,28 +59,31 @@ O projeto explora **lógica de programação, interação com o usuário e desen
 
 <p>
   <a href="https://github.com/Kaellen-mk/R-Rabbit">
-    <img src="https://img.shields.io/badge/Ver%20código-ff8fc7?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ver%20código-ff8fc7?style=for-the-badge&logo=github&logoColor=white" alt="Ver código do R-Rabbit" />
   </a>
   <a href="https://rrabbit.vercel.app">
-    <img src="https://img.shields.io/badge/Jogar%20agora-c084fc?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jogar%20agora-c084fc?style=for-the-badge&logo=vercel&logoColor=white" alt="Jogar R-Rabbit" />
   </a>
 </p>
 
 ---
 
-### 💖 Love Me — Sistema de Partículas
+### ✝️ São Carlo Acutis — Site
 
-Experiência visual interativa desenvolvida utilizando um sistema de partículas em formato de coração.
+Aplicação web inspirada na vida e no legado de São Carlo Acutis, desenvolvida para proporcionar uma experiência digital interativa que une **fé, tecnologia e evangelização**.
 
-O projeto explora **HTML, CSS e JavaScript**, utilizando animações e manipulação de elementos para criar uma experiência visual e interativa.
+O projeto foi desenvolvido a partir de um mockup de referência, com uma interface moderna, transições entre telas, animações configuráveis e uma experiência audiovisual que apresenta progressivamente os capítulos da história de Carlo Acutis.
 
 **Tecnologias:**
 
-`HTML5` `CSS3` `JavaScript`
+`React 18` `Vite 6` `TypeScript` `CSS3` `Lucide React`
 
 <p>
-  <a href="https://github.com/Kaellen-mk/Love_me">
-    <img src="https://img.shields.io/badge/Ver%20código-ff8fc7?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="URL_DO_REPOSITORIO_ACUTIS">
+    <img src="https://img.shields.io/badge/Ver%20código-ff8fc7?style=for-the-badge&logo=github&logoColor=white" alt="Ver código do projeto São Carlo Acutis" />
+  </a>
+  <a href="URL_DO_SITE_ACUTIS">
+    <img src="https://img.shields.io/badge/Acessar%20site-c084fc?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar site São Carlo Acutis" />
   </a>
 </p>
 
@@ -89,13 +94,13 @@ O projeto explora **HTML, CSS e JavaScript**, utilizando animações e manipula�
 ### 💻 Desenvolvimento
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,vite" alt="HTML, CSS, JavaScript, TypeScript, Python, React e Vite" />
 </p>
 
 ### 🎨 Design & Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github" alt="Figma, VS Code, Git e GitHub" />
 </p>
 
 ---
@@ -104,13 +109,13 @@ O projeto explora **HTML, CSS e JavaScript**, utilizando animações e manipula�
 
 Atualmente estou focada em evoluir minhas habilidades em desenvolvimento e design, buscando construir projetos cada vez mais completos e profissionais.
 
-* ⚛️ React
-* 🎀 TypeScript
-* 🎨 UI/UX Design
-* 📱 Desenvolvimento responsivo
-* 🧩 Componentização
-* 🏗️ Organização e arquitetura de projetos
-* ✨ Boas práticas de desenvolvimento Front-end
+- ⚛️ React
+- 🎀 TypeScript
+- 🎨 UI/UX Design
+- 📱 Desenvolvimento responsivo
+- 🧩 Componentização
+- 🏗️ Organização e arquitetura de projetos
+- ✨ Boas práticas de desenvolvimento Front-end
 
 Meu objetivo é continuar evoluindo como desenvolvedora, unindo **tecnologia, criatividade e design** para criar experiências digitais bonitas, funcionais e intuitivas.
 
@@ -119,9 +124,9 @@ Meu objetivo é continuar evoluindo como desenvolvedora, unindo **tecnologia, cr
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaellen-mk&show_icons=true&theme=transparent&title_color=ff8fc7&icon_color=ff8fc7&text_color=8a8a8a&border_color=ff8fc7" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaellen-mk&show_icons=true&theme=transparent&title_color=ff8fc7&icon_color=ff8fc7&text_color=8a8a8a&border_color=ff8fc7" alt="Estatísticas do GitHub" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaellen-mk&layout=compact&theme=transparent&title_color=ff8fc7&text_color=8a8a8a&border_color=ff8fc7" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaellen-mk&layout=compact&theme=transparent&title_color=ff8fc7&text_color=8a8a8a&border_color=ff8fc7" alt="Linguagens mais utilizadas" />
 </p>
 
 ---
@@ -129,19 +134,17 @@ Meu objetivo é continuar evoluindo como desenvolvedora, unindo **tecnologia, cr
 ## 📫 Vamos conversar?
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/Mikaellen-Silva/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ff8fc7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-<a href="https://www.linkedin.com/in/Mikaellen-Silva/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-ff8fc7?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://www.instagram.com/mk.kaellen" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-c084fc?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
-<a href="https://www.instagram.com/mk.kaellen" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-c084fc?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://github.com/Kaellen-mk" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <a href="https://github.com/Kaellen-mk" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
@@ -155,5 +158,5 @@ Meu objetivo é continuar evoluindo como desenvolvedora, unindo **tecnologia, cr
 </p>
 
 <p align="center">
-  <img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/cat.jpg" width="220px" />
+  <img src="https://github.com/Kaellen-mk/Kaellen-mk/blob/main/cat.jpg" width="220" alt="Gatinho decorativo do perfil" />
 </p>
