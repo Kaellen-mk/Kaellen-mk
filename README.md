@@ -79,10 +79,10 @@ O projeto foi desenvolvido a partir de um mockup de referência, com uma interfa
 `React 18` `Vite 6` `TypeScript` `CSS3` `Lucide React`
 
 <p>
-  <a href="URL_DO_REPOSITORIO_ACUTIS">
+  <a href="https://github.com/Kaellen-mk/Carlos-acutis-bibliografia">
     <img src="https://img.shields.io/badge/Ver%20código-ff8fc7?style=for-the-badge&logo=github&logoColor=white" alt="Ver código do projeto São Carlo Acutis" />
   </a>
-  <a href="URL_DO_SITE_ACUTIS">
+  <a href="carlos-acutis.vercel.app">
     <img src="https://img.shields.io/badge/Acessar%20site-c084fc?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar site São Carlo Acutis" />
   </a>
 </p>
